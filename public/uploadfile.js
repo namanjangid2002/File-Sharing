@@ -13,7 +13,7 @@ const copyBtn = document.querySelector("#copyBtn");
 const emailForm = document.querySelector("#emailform")
 
 
-const baseURL = "http://localhost:3000";
+const baseURL = "https://file-sharing-97ke.onrender.com/";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
